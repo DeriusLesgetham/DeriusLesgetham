@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeriusLesgetham
+- 👋 Hi, I’m @ThisIan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 
